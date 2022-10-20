@@ -7,7 +7,7 @@
 python 2.8  
 haversine 2.3.0  
 sharkbite 0.7.4  
-pymysql 0.10.1
+pymysql 0.10.1  
 Flask 2.0.5  
 
 ## Dataset
