@@ -35,3 +35,9 @@ case 2
 - GT(Ground Truth) : 149 link
 - TP(잘 매칭된 경우) : 121 link
 - FP(매칭되면 안되는데 매칭된 경우) : 1 link
+
+## Issue
+- 링크가 작은 경우 매칭 오류 발생
+- 터널 같은 경우 궤적 데이터가 없어 매칭이 되지 않음
+  
+[traj2seg-v2](https://github.com/jsm9720/traj2seg-v2)는 서로 연결된 링크를 매칭하는데 잘 매칭되지 않는 문제 개선
