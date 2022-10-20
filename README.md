@@ -11,8 +11,8 @@ pymysql 0.10.1
 Flask 2.0.5  
 
 ## Dataset
-[표준노드링크데이터](https://www.its.go.kr/nodelink/nodelinkRef) 2019_09_20.geojson  
-Wedrive 궤적 데이터(회사 데이터임으로 공개 X)
+- [표준노드링크데이터](https://www.its.go.kr/nodelink/nodelinkRef) 2019_09_20.geojson  
+- Wedrive 궤적 데이터(공개 X)
 ![traj](image/traj.png)
 
 ## How to use
